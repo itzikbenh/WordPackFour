@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{9:function(o,n){console.log("I'm lazy")}}]);
